@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-stats-preview-card-6wDyI2cs7l)
+- Live Site URL: (https://jacobwwarner-stats-preview-card.netlify.app/)
 
 ## My process
 
